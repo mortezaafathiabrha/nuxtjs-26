@@ -1,0 +1,19 @@
+{
+  "name": "nuxtjs-hello-world-v26",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple Hello World Nuxt.js project for Node.js 26",
+  "engines": {
+    "node": ">=26.13.0 <27"
+  },
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "node .output/server/index.mjs",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^4.6.4",
+    "vue": "^3.5.44"
+  }
+}
