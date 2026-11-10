@@ -1,11 +1,11 @@
 # Nuxt.js Hello World Project
 
-A simple Hello World application built with Nuxt.js for Node.js 26.
+A simple Hello World application built with Nuxt.js for Node.js 22.22, 24.15, and 26.
 
 ## Getting Started
 
 ### Prerequisites
-- Node.js 26.13.0
+- Node.js 22.22.3 or newer on the 22 line, 24.15.0 or newer on the 24 line, or Node.js 26
 - npm or yarn
 
 ### Installation
@@ -48,7 +48,7 @@ npm run dev
 - Hot module replacement (HMR)
 - Mobile-friendly layout
 - Nuxt DevTools enabled
-- Node.js 26
+- Node.js 22.22, 24.15, or 26
 
 ## Learn More
 
